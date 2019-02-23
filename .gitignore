@@ -7,7 +7,6 @@ media/
 settings.py
 
 # Distribution / packaging
-.Python
 env/
 venv/
 build/
